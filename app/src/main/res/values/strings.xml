@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">健身小助手</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_new">New</string>
+    <string name="btn_finish">FINISH</string>
+    <string name="btn_chart">Track</string>
+    <string name="btn_back">Back</string>
+    <string name="part1">胸部肌群</string>
+    <string name="part2">背部肌群</string>
+    <string name="part3">腿部肌群</string>
+    <string name="part4">肩部肌群</string>
+    <string name="part5">核心肌群</string>
+    <string name="part6">有氧訓練</string>
+    <string name="chest_upper">上胸訓練</string>
+    <string name="chest_flat">平胸訓練</string>
+    <string name="chest_lower">下胸訓練</string>
+    <string name="chest_tri">三頭肌訓練</string>
+    <string name="back_first">斜方肌訓練</string>
+    <string name="back_second">背闊肌訓練</string>
+    <string name="back_third">大圓肌訓練</string>
+    <string name="back_bisc">二頭肌訓練</string>
+    <string name="leg_first">股四頭肌訓練</string>
+    <string name="leg_second">股二頭肌訓練</string>
+    <string name="leg_third">臀大肌訓練</string>
+    <string name="leg_forth">小腿肌訓練</string>
+    <string name="shoulder_first">前三角訓練</string>
+    <string name="shoulder_second">中三角訓練</string>
+    <string name="shoulder_third">後三角訓練</string>
+    <string name="shoulder_forth">前臂訓練</string>
+    <string name="core_first">上腹直肌訓練</string>
+    <string name="core_second">下腹直肌訓練</string>
+    <string name="core_third">腹斜肌訓練</string>
+    <string name="core_forth">豎脊肌訓練</string>
+    <string name="run_first">有氧訓練</string>
+    <string name="weight">輸入體重:</string>
+
+
+</resources>
